@@ -1,7 +1,7 @@
 package com.rrtv.rpc.provider.service;
 
 import com.rrtv.rpc.api.service.HelloWordService;
-import com.rrtv.rpc.server.annotation.RpcService;
+import cn.org.wangchangjiu.rpc.server.annotation.RpcService;
 
 /**
  * @Classname HelloWordServiceImpl

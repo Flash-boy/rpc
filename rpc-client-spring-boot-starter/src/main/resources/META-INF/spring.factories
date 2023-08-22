@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.rrtv.rpc.client.config.RpcClientAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.org.wangchangjiu.rpc.client.config.RpcClientAutoConfiguration

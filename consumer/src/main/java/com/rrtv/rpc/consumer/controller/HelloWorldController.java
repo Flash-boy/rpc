@@ -1,7 +1,7 @@
 package com.rrtv.rpc.consumer.controller;
 
 import com.rrtv.rpc.api.service.HelloWordService;
-import com.rrtv.rpc.client.annotation.RpcAutowired;
+import cn.org.wangchangjiu.rpc.client.annotation.RpcAutowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
